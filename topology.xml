@@ -1,0 +1,132 @@
+<?xml version="1.0" ?>
+<all>
+	<item type="dict">
+		<ConnectedDevices type="list"/>
+		<Active type="bool">True</Active>
+		<HiLinkType type="str">None</HiLinkType>
+		<MACAddress type="str">06:37:78:F0:AF:BB</MACAddress>
+	</item>
+	<item type="dict">
+		<ConnectedDevices type="list">
+			<item type="dict">
+				<ConnectedDevices type="list"/>
+				<Active type="bool">True</Active>
+				<HiLinkType type="str">None</HiLinkType>
+				<MACAddress type="str">B4:86:55:8B:C5:51</MACAddress>
+			</item>
+			<item type="dict">
+				<ConnectedDevices type="list"/>
+				<Active type="bool">True</Active>
+				<HiLinkType type="str">None</HiLinkType>
+				<MACAddress type="str">54:EF:44:31:BE:9D</MACAddress>
+			</item>
+			<item type="dict">
+				<ConnectedDevices type="list"/>
+				<Active type="bool">True</Active>
+				<HiLinkType type="str">None</HiLinkType>
+				<MACAddress type="str">CA:F2:47:91:D7:3B</MACAddress>
+			</item>
+		</ConnectedDevices>
+		<Active type="bool">True</Active>
+		<HiLinkType type="str">Device</HiLinkType>
+		<MACAddress type="str">14:DE:39:F4:AF:FE</MACAddress>
+	</item>
+	<item type="dict">
+		<ConnectedDevices type="list">
+			<item type="dict">
+				<ConnectedDevices type="list"/>
+				<Active type="bool">True</Active>
+				<HiLinkType type="str">None</HiLinkType>
+				<MACAddress type="str">88:97:46:1B:F6:5F</MACAddress>
+			</item>
+			<item type="dict">
+				<ConnectedDevices type="list"/>
+				<Active type="bool">True</Active>
+				<HiLinkType type="str">None</HiLinkType>
+				<MACAddress type="str">24:94:94:3D:98:FB</MACAddress>
+			</item>
+			<item type="dict">
+				<ConnectedDevices type="list"/>
+				<Active type="bool">True</Active>
+				<HiLinkType type="str">None</HiLinkType>
+				<MACAddress type="str">24:94:94:3D:98:3B</MACAddress>
+			</item>
+			<item type="dict">
+				<ConnectedDevices type="list"/>
+				<Active type="bool">True</Active>
+				<HiLinkType type="str">None</HiLinkType>
+				<MACAddress type="str">C8:2B:96:2D:D5:41</MACAddress>
+			</item>
+			<item type="dict">
+				<ConnectedDevices type="list"/>
+				<Active type="bool">True</Active>
+				<HiLinkType type="str">None</HiLinkType>
+				<MACAddress type="str">FC:DD:C3:D5:57:83</MACAddress>
+			</item>
+			<item type="dict">
+				<ConnectedDevices type="list"/>
+				<Active type="bool">True</Active>
+				<HiLinkType type="str">None</HiLinkType>
+				<MACAddress type="str">D8:F1:5B:FE:F4:F7</MACAddress>
+			</item>
+			<item type="dict">
+				<ConnectedDevices type="list"/>
+				<Active type="bool">True</Active>
+				<HiLinkType type="str">None</HiLinkType>
+				<MACAddress type="str">A0:DE:0F:6C:C5:5F</MACAddress>
+			</item>
+			<item type="dict">
+				<ConnectedDevices type="list"/>
+				<Active type="bool">True</Active>
+				<HiLinkType type="str">None</HiLinkType>
+				<MACAddress type="str">44:6E:E5:2F:99:54</MACAddress>
+			</item>
+		</ConnectedDevices>
+		<Active type="bool">True</Active>
+		<HiLinkType type="str">Device</HiLinkType>
+		<MACAddress type="str">A0:DE:0F:91:CB:D9</MACAddress>
+	</item>
+	<item type="dict">
+		<ConnectedDevices type="list">
+			<item type="dict">
+				<ConnectedDevices type="list"/>
+				<Active type="bool">True</Active>
+				<HiLinkType type="str">None</HiLinkType>
+				<MACAddress type="str">54:EF:44:2E:95:31</MACAddress>
+			</item>
+			<item type="dict">
+				<ConnectedDevices type="list"/>
+				<Active type="bool">True</Active>
+				<HiLinkType type="str">None</HiLinkType>
+				<MACAddress type="str">E8:DB:84:49:52:A3</MACAddress>
+			</item>
+			<item type="dict">
+				<ConnectedDevices type="list"/>
+				<Active type="bool">True</Active>
+				<HiLinkType type="str">None</HiLinkType>
+				<MACAddress type="str">E8:DB:84:49:54:A5</MACAddress>
+			</item>
+			<item type="dict">
+				<ConnectedDevices type="list"/>
+				<Active type="bool">True</Active>
+				<HiLinkType type="str">None</HiLinkType>
+				<MACAddress type="str">A4:39:B3:22:37:C9</MACAddress>
+			</item>
+		</ConnectedDevices>
+		<Active type="bool">True</Active>
+		<HiLinkType type="str">Device</HiLinkType>
+		<MACAddress type="str">A0:DE:0F:91:E3:7A</MACAddress>
+	</item>
+	<item type="dict">
+		<ConnectedDevices type="list"/>
+		<Active type="bool">True</Active>
+		<HiLinkType type="str">None</HiLinkType>
+		<MACAddress type="str">A0:36:9F:0F:AF:58</MACAddress>
+	</item>
+	<item type="dict">
+		<MACAddress type="str">62:D7:D0:AE:B8:91</MACAddress>
+		<UpdateState type="int">0</UpdateState>
+		<routerSelf type="int">1</routerSelf>
+		<IsSupportOnlineUpg type="int">1</IsSupportOnlineUpg>
+	</item>
+</all>
